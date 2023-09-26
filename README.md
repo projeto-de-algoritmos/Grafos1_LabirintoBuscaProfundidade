@@ -20,7 +20,6 @@ Um labirinto que contém um ponto inicial e final e realiza a forma de busca sel
 
 ## Instalação 
 **Linguagem**: Javascript<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
+Disponível aqui: [Labirinto Busca e Profundidade](https://projeto-de-algoritmos.github.io/Grafos1_LabirintoBuscaProfundidade/)
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Clique no Botão desejado para selecionar o mode de busca do labirinto.
